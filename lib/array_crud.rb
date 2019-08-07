@@ -14,6 +14,8 @@ element = ["arrays!"]
 end
 
 def add_element_to_start_of_array(array, element)
+  array = ["Wow!"]
+  element = ["I", "am", "really", "learning", "arrays"]
   
 end
 
